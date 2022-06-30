@@ -4,6 +4,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/Salutations")
+@CrossOrigin(origins = "*", allowedHeaders = "*")
 public class Salutations {
     @GetMapping("/Hi")
     public String sayHi(@RequestParam(value = "name") String name) {
