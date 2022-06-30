@@ -1,0 +1,130 @@
+GET http://localhost:8080/Salutations/Generic
+
+<> 2022-06-30T104555.200.txt
+
+###
+
+GET http://localhost:8080/Salutations/Hi
+
+<> 2022-06-30T104543.400.json
+
+###
+
+GET http://localhost:8080/Salutations/Hi
+
+<> 2022-06-30T104542.400.json
+
+###
+
+GET http://localhost:8080/Hi?name=kko
+
+<> 2022-06-30T104535.404.json
+
+###
+
+GET http://localhost:8080/Salutations/Hi
+
+<> 2022-06-30T104442.400.json
+
+###
+
+GET http://localhost:8080/Salutations/Hi
+
+###
+
+GET http://localhost:8080/Salutations/Generic
+
+<> 2022-06-30T104158.404.json
+
+###
+
+GET http://localhost:8080/Hi?name=kko
+
+<> 2022-06-30T103951.404.json
+
+###
+
+GET http://localhost:8080/Hello?name=kko
+
+<> 2022-06-30T103355.200.txt
+
+###
+
+GET http://localhost:8080/Hello?name=kko
+
+<> 2022-06-30T102448.200.txt
+
+###
+
+GET http://localhost:8080/Hello
+
+<> 2022-06-30T102437.400.json
+
+###
+
+GET http://localhost:8080/Hi?name=Ana
+
+<> 2022-06-30T101957.200.txt
+
+###
+
+GET http://localhost:8080/Hi?name=Toni
+
+<> 2022-06-30T101951.200.txt
+
+###
+
+GET http://localhost:8080/Hi?name="Toni"
+
+<> 2022-06-30T101943.200.txt
+
+###
+
+GET http://localhost:8080/Hi
+
+<> 2022-06-30T101900.400.json
+
+###
+
+GET http://localhost:8080/Hi/4
+
+<> 2022-06-30T101808.404.json
+
+###
+
+GET http://localhost:8080/Hi/4
+
+<> 2022-06-30T101807.404.json
+
+###
+
+GET http://localhost:8080/Hi
+
+<> 2022-06-30T101801.404.json
+
+###
+
+GET http://localhost:8080/Hi
+
+<> 2022-06-30T101800.404.json
+
+###
+
+GET http://localhost:8080/Toni
+
+<> 2022-06-30T101709.404.json
+
+###
+
+GET http://localhost:8080/Toni
+
+<> 2022-06-30T101708.404.json
+
+###
+
+GET http://localhost:8080
+
+<> 2022-06-30T101659.500.json
+
+###
+
